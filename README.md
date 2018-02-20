@@ -1,14 +1,13 @@
-Nicola Centrone
-Date: 28/12/17
-
 # Mockup to Article
+
+## Description
 Student first project. Translation of a PDF mockup to vanilla HTML.
 
-### License
+## License
 
 MIT License
 
-Copyright (c) [2017] [Nicola Centrone]
+Copyright (c) [2018] [Nicola Centrone]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
